@@ -1,0 +1,29 @@
+PSD-to-HTML: Engine Labs
+
+Difficulty Level: Easy
+
+Technologies/skills used: HTML, CSS
+
+
+
+Problem Description:
+
+One of the most common tasks you will encounter as a front end web developer is taking a Photoshop file from a client and turning it into an HTML page. Depending on the complexity of the mockup, this can seem like a daunting task, but with enough practice you will be able to do this with your eyes closed (almost).
+
+You will turn the index.html file into the Engine Labs homepage, trying to match the Engine Labs Home PSD (or jpg, if you don't have Photoshop) as closely as you can. Images for the icons and background have been provided for you.
+
+
+Hints:
+* Start building the page from the top and continue downwards.
+
+* Try to break the page into vertically-stacking sections (header, hero image, quote, features, etc). Note that each section spans the width of the page (100%) and has a more narrow (960px), centered subsection where the content goes.
+
+* Use classes effectively: come up with class names that describe the function of a particular element rather than describing the content inside it. Creating functional classes lets you style elements quickly when they need to serve a common purpose.
+
+* Read up on absolute positioning and floats.
+
+* Use a reset.css for cross-browser harmony. I usually use Skeleton's (http://www.getskeleton.com/) but I also recommend YUI's: http://yui.yahooapis.com/3.10.1/build/cssreset/cssreset-min.css
+
+* Try this without using a grid framework (like Skeleton). Once you feel confident hand-coding this, investigate a grid framework and see how much time it saves you.
+
+
